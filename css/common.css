@@ -95,6 +95,7 @@
 
 .nav li a:hover {
   color: #5EB69C;
+  /* 加下边框 */
   border-bottom: 2px solid #5EB69C;
 }
 
